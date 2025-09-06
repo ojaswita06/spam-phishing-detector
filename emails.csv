@@ -1,0 +1,14 @@
+text,label
+"Hello, We’re excited to announce our new course on Duolingo: Chess! Join us to improve your skills and have fun learning. Check out the full schedule on our website.",safe
+"Hi Team, Please find attached the project report for this week. Let me know if you have any questions or need further clarifications.",safe
+"Dear User, Your subscription to our newsletter has been confirmed. Enjoy weekly updates and tips from our team.",safe
+"Hello, Your Amazon order has been shipped and will arrive within 3-5 business days. Track your package here.",safe
+"Hi John, Thanks for attending the meeting yesterday. Let’s follow up on the action items by next week.",safe
+"Dear User, Your account has been compromised. To secure your account, click here immediately and reset your password. Failure to do so within 24 hours may result in permanent suspension.",spam
+"Attention, You have won a $500 gift card. Click here now to claim your prize. Provide your account details to receive your reward immediately.",spam
+"Urgent: Your PayPal account has unusual activity. Verify your account immediately at http://fake-website.com",spam
+"Congratulations! You have been selected for a limited-time loan offer. Click here to apply now.",spam
+"Dear Customer, Your bank account will be locked unless you confirm your details at http://phishing-link.com",spam
+"text","label"
+"Hi there, Don’t miss our weekly coding challenge! ...",safe
+"Congratulations! You have won $1,000,000 ...",spam
